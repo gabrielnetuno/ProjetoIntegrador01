@@ -463,3 +463,16 @@ form button[id="passToggle"], form button[id="newPassToggle"] {
     }
 
 }
+.cat-item sup {
+    display: inline-block;
+    background: rgb(124, 124, 124);
+    color: #fff;
+    padding: 0 0.3rem;
+    border-radius: 50%;
+    font-size: 0.6rem;
+    margin-left: 0.25rem;
+}
+sup {
+    vertical-align: super;
+    font-size: smaller;
+}
